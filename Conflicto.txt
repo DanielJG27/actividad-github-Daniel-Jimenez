@@ -1,0 +1,3 @@
+Proyecto: Git.Conflicts
+Responsable: Jesus Daniel Jimenez Guerrero
+Version: 1.0
